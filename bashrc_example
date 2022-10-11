@@ -1,0 +1,11 @@
+# .bashrc
+# Jing Feng (jing.feng@noaa.gov), Oct 10, 2022
+# example bash file
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# change this line to your own DATA directory
+export MODTRAN_DATA=/project/rrg-yihuang-ad/jfeng93/model/MODTRAN6.0/DATA   
+export MODTRAN_LIC_SERVER=meteo.mcgill.ca:20013
