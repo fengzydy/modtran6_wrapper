@@ -1,10 +1,10 @@
 Jing Feng (jing.feng3@mail.mcgill.ca, jing.feng@noaa.gov), Oct 10, 2022
 
-#Step1: 
+# Step1: 
 
 Download MODTRAN6
 
-#Step2: 
+# Step2: 
 
 No need to activate MODTRAN6. 
 
@@ -14,7 +14,7 @@ Modify your shell environment .bashrc file for connection to float license serve
 
 Restart your shell to activate the shell environment.
        
-#Step3: 
+# Step3: 
 
 Check 'run_modtran_example.m' for an example code to run modtran6.
 
