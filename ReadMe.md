@@ -2,13 +2,15 @@ Jing Feng (jing.feng3@mail.mcgill.ca, jing.feng@noaa.gov), Oct 10, 2022
 
 # Step1: 
 
-Download MODTRAN6
+Download MODTRAN6 (http://modtran.spectral.com) and purchases license.
 
 # Step2: 
 
-No need to activate MODTRAN6. 
+McGill AOS:
 
-Please contact Yi Huang (yi.huang@mcgill.ca) for permission to the license server installed in McGill University.
+A float license server has been installed, there is no need to activate it in your own workstation.
+
+Please contact Yi Huang (yi.huang@mcgill.ca) for permission to the license server.
 
 Modify your shell environment .bashrc file for connection to float license server.
 
