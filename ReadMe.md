@@ -6,7 +6,7 @@ Download MODTRAN6 (http://modtran.spectral.com) and purchases license.
 
 # Step2: 
 
-McGill AOS:
+For students and researchers at McGill AOS:
 
 A float license server has been installed, there is no need to activate it in your own workstation.
 
