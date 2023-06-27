@@ -8,4 +8,4 @@ fi
 
 # change this line to your own DATA directory
 export MODTRAN_DATA=/project/rrg-yihuang-ad/jfeng93/model/MODTRAN6.0/DATA   
-export MODTRAN_LIC_SERVER=meteo.mcgill.ca:20013
+export MODTRAN_LIC_SERVER=nlicenses.meteo.mcgill.ca:20013
